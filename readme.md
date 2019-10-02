@@ -1,6 +1,6 @@
-# typescript playground
+# Typescript Playground
 
-> study typescript
+> Study Typescript
 
 ## References :smirk:
 [Typescript Handbook KR](https://typescript-kr.github.io/)
