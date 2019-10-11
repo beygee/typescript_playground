@@ -48,3 +48,4 @@ let cardPicker = deck.createdCardPicker()
 let pickedCard = cardPicker()
 
 console.log(`card: ${pickedCard.card} of ${pickedCard.suit}`)
+
