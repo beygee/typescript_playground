@@ -24,4 +24,4 @@ tsc
 
 ## References :smirk:
 
-[Typescript Handbook KR](https://typescript-kr.github.io/)
+- [Typescript Handbook KR](https://typescript-kr.github.io/)
