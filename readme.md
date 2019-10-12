@@ -1,5 +1,5 @@
-# Typescript Playground :books:
-
+<h1 align="center">Typescript Playground 📚</h1>
+⌨
 > Study Typescript
 
 ## Install :rainbow:
