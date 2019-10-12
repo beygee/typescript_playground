@@ -1,5 +1,15 @@
 <h1 align="center">Typescript Playground 📚</h1>
-⌨
+<div align="center">
+  💻⌨🖱
+</div>
+<div align="center" style="display:flex;">
+  <img src="https://img.shields.io/static/v1?label=Typescript&message=Study&color=critical" />
+  <img src="https://img.shields.io/github/languages/top/beygee/typescript_playground" />
+  <img src="https://img.shields.io/github/commit-activity/m/beygee/typescript_playground"/>
+  <img src="https://img.shields.io/github/last-commit/beygee/typescript_playground"/>
+  <img src="https://img.shields.io/github/license/beygee/typescript_playground" />
+</div>
+
 > Study Typescript
 
 ## Install :rainbow:
