@@ -11,6 +11,16 @@
   <img src="https://img.shields.io/github/license/beygee/typescript_playground" />
 </div>
 
+## Table of Contents
+- Basic Type 
+- Variable Declarations
+- Interface
+- Class
+- Function
+- Generic
+- Enum
+- Type Compability
+
 ## Install :rainbow:
 
 ```
